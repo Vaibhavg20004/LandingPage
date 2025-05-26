@@ -1,6 +1,6 @@
 #Landing Page
 
-A simple and responsive landing page built using HTML and CSS.
+A simple landing page built using HTML and CSS.
 
 ## Features
 - Clean header with navigation
